@@ -905,7 +905,7 @@ section,
 }
 
 .clients .swiper-wrapper {
-  height: 100px; /* Edited Here */
+  height: 150px; /* Edited Here */
 }
 
 .clients .swiper-slide img {
